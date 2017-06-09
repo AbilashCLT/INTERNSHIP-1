@@ -1,0 +1,2 @@
+>>Still there is a problem in git push.So i added the files to the github via upload
+>>Completed week0 commamd line exersises .
